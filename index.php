@@ -25,12 +25,12 @@
 
 <body>
 
-    <!-- 
+    <!--
         <div class="preloader">
         <div class="lds-ripple">
         <div class="pl-flip-1 pl-flip-2"></div>
         </div>
-        </div> 
+        </div>
     -->
 
 
@@ -856,7 +856,7 @@
                             <div id="minutes"></div>
                             <div id="seconds"></div>
                         </div>
-                        <a href="https://docs.google.com/forms/d/1R8mrpnzEbO3_GovG_KUqzCCD1Aymx11jZ0Pd-WJjgs8/edit" class="default-btn">
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScO_T_-_MHrGBBIA2XRtLdSx4I-Ynz0dJnwgT7odf10DJbW4w/viewform" class="default-btn">
                             Join Now!
                             <i class="ri-arrow-right-line"></i>
                         </a>
